@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaltyBear
-- 👀 I’m interested in Full Stack Web Development with Javacript and modern tools.
+- 👀 I’m interested in Full Stack Web Development with modern tools; Javascript, AJAX, NODE, REACT, etc.  Have some depth in PHP and MySQL.
 - 🌱 I’m currently pivoting my skills MS Access/VBA/SQL Server over to doing full stack web-based apps and sites.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to meet and collaborate with others.  I do some sidework for businesses creating custom applications.
 - 📫 How to reach me ...
 
 <!---
